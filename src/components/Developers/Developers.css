@@ -1,0 +1,14 @@
+.developers-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.dev-container{
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
+.dev-cart{
+    margin: 0px 5px;
+}

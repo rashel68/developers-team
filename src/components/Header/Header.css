@@ -1,0 +1,8 @@
+.dev-header{
+    background-image: url(./header2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px 0px;
+    text-align: center;
+}

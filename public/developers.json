@@ -1,0 +1,110 @@
+[
+  {
+    "id": "OR9C7F8K",
+    "name": "David Patterson",
+    "title": "Microprogrammer",
+    "age": 65,
+    "nationality": "American",
+    "salary": 45000,
+    "img": "https://news.berkeley.edu/wp-content/uploads/2018/03/DavePatterson2018-750.jpg"
+  },
+  {
+    "id": "Q409EPOP",
+    "name": "Dennis Ritchie",
+    "title": "C++ Developer",
+    "age": 47,
+    "nationality": "American",
+    "salary": 32000,
+    "img": "https://s.yimg.com/uu/api/res/1.2/vhlWyAqI9PmWbUBNNrywzg--~B/aD0yNTA7dz0xOTM7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/10/dennis-ritchie.jpg"
+  },
+  {
+    "id": "EQHYFDML",
+    "name": "Bjarne Stroustrup",
+    "title": "C# Developer",
+    "age": 45,
+    "nationality": "Danish",
+    "salary": 8500,
+    "img": "https://www.engineering.columbia.edu/files/seas/styles/300x300/public/content/bio_profile_image/2020/27/stroustrup_500.png"
+  },
+  {
+    "id": "QRDXMZDL",
+    "name": "James Gosling",
+    "title": "Java Developer",
+    "age": 75,
+    "nationality": "Canadian",
+    "salary": 74000,
+    "img": "https://mappingthejourney.com/wp-content/uploads/2017/08/james_gosling.jpg"
+  },
+  {
+    "id": "08IRW1IH",
+    "name": "Linus Torvalds",
+    "title": "Linux Developer",
+    "age": 60,
+    "nationality": "Finnish",
+    "salary": 9500,
+    "img": "https://cdn.britannica.com/w:400,h:300,c:crop/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg"
+  },
+  {
+    "id": "KFOXZO7W",
+    "name": "Anders Hejlsberg",
+    "title": "C# Developer",
+    "age": 56,
+    "nationality": "Danish",
+    "salary": 7400,
+    "img": "https://tv.ssw.com/wp-content/uploads/2018/04/Anders-Hejlsberg.jpg"
+  },
+  {
+    "id": "ZI7W23I7",
+    "name": "Tim Berners-Lee",
+    "title": "Wev Developer",
+    "age": 45,
+    "nationality": "British",
+    "salary": 4500,
+    "img": "https://www.thefamouspeople.com/profiles/images/tim-berners-lee-2.jpg"
+  },
+  {
+    "id": "1CXBRO44",
+    "name": "Brendan Eich",
+    "title": "JavaScript Developer",
+    "age": 45,
+    "nationality": "American",
+    "salary": 40000,
+    "img": "https://img.etimg.com/thumb/msid-71133788,width-640,resizemode-4,imgsize-47997/brendan-eich-mozilla-corp.jpg"
+  },
+  {
+    "id": "J5DTIMXO",
+    "name": "Donald Knuth",
+    "title": "Algorithm Analyst",
+    "age": 52,
+    "nationality": "",
+    "salary": 88000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/KnuthAtOpenContentAlliance.jpg"
+  },
+  {
+    "id": "SID4KQXP",
+    "name": "Mark Zukerberg",
+    "title": "Software Developer",
+    "age": 45,
+    "nationality": "US",
+    "salary": 66000,
+    "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/125B3/production/_107178157_178151.jpg"
+  },
+  {
+    "id": "UGDUHL8S",
+    "name": "John Carmack",
+    "title": "UI Developer",
+    "age": 44,
+    "nationality": "UK",
+    "salary": 35000,
+    "img": "https://quotepark.com/media/authors/john-d-carmack.jpeg"
+  },
+  {
+    "id": "UGDUHL8X",
+    "name": "Bill Gates",
+    "title": "OS Developer",
+    "age": 65,
+    "nationality": "American",
+    "salary": 95000,
+    "img": "https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/GettyImages-187969754_441409_w6ga1c.jpg"
+  }
+]
